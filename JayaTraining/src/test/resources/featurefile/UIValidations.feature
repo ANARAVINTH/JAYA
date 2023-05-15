@@ -26,8 +26,9 @@ Feature: Dropdown Validations
     Given User Navigates to URL
     When Handle the frame
 
-    @Table
+  @Table
   Scenario: Table
     Given  User Navigates to URL
     When Handles the table
+
 
